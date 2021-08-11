@@ -1,2 +1,2 @@
-cp .vim ~/
+cp -r .vim ~/
 cp .zshrc ~/
